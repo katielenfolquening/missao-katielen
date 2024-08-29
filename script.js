@@ -47,3 +47,20 @@ const perguntas = [
         ]
     }
 ];
+let atual = 0;
+let perguntaAtual;
+let historiafinal= " " ;
+function mostrapergunta () }
+      if (atual>=perguntas.length){
+          mostraResultado();
+          return;
+} 
+     perhuntaAtual=perguntas[atual];
+     caixaperguntas.textcontent=perguntaAtual.enunciado;
+    caixaAlternativas.textcontent="";
+     textoResultado.textcontent="";
+      mostraAlternativas() ;
+) 
+function mostraAlternativas() (
+      for(const al
+        
