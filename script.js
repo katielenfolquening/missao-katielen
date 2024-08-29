@@ -42,4 +42,8 @@ const perguntas = [
             },
             {
                 texto: "Promovendo a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
-                afirmacao:"afirmacao6"
+                afirmacao:"afirmacao6";
+    }
+        ]
+    }
+];
